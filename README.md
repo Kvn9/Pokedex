@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# 🌐 Pokedex Pokemon en React et TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenue dans le Pokedex Pokemon, un projet réalisé en utilisant React et TypeScript. Ce Pokedex interactif tire parti de l'API PokeAPI pour afficher des informations détaillées sur les 20 premiers Pokemon, mettant en valeur leur nom, leur type et une stylisation en fonction de leur type.
 
-## Available Scripts
+## 🚀 Fonctionnalités principales
 
-In the project directory, you can run:
+- Affichage des 20 premiers Pokemon avec leurs informations de base.
+- Présentation stylisée en fonction du type de chaque Pokemon.
+- Utilisation de React pour une interface utilisateur réactive.
+- Intégration de TypeScript pour une gestion plus robuste des types.
+- Appel à l'API Pokemon pour récupérer les données en temps réel.
 
-### `npm start`
+## 💻 Technologies utilisées
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React : Bibliothèque JavaScript pour la création d'interfaces utilisateur réactives.
+- TypeScript : Superset de JavaScript apportant le typage statique au code.
+- PokeAPI : Source de données pour obtenir des informations détaillées sur les Pokemon.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠️ Comment utiliser le projet
 
-### `npm test`
+Prérequis
+Assurez-vous d'avoir Node.js installé sur votre machine avant de commencer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clonez ce dépôt : git clone 'repository'
+Accédez au répertoire du projet : cd projet-pokemon
+Installez les dépendances : npm install
 
-### `npm run build`
+Utilisation
+Lancez l'application en mode développement : npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/Kvn9/Pokedex/assets/102222982/885645cb-a720-438c-a1d2-ad0e67610257)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
