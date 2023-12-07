@@ -21,9 +21,9 @@ Bienvenue dans le Pokedex Pokemon, un projet réalisé en utilisant React et Typ
 Prérequis
 Assurez-vous d'avoir Node.js installé sur votre machine avant de commencer.
 
-Clonez ce dépôt : git clone 'repository'
-Accédez au répertoire du projet : cd projet-pokemon
-Installez les dépendances : npm install
+Clonez ce dépôt : git clone 'repository' <br><br>
+Accédez au répertoire du projet : cd projet-pokemon<br>
+Installez les dépendances : npm install<br>
 
 Utilisation
 Lancez l'application en mode développement : npm start
