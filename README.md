@@ -30,4 +30,5 @@ Lancez l'application en mode développement : npm start
 
 ![image](https://github.com/Kvn9/Pokedex/assets/102222982/885645cb-a720-438c-a1d2-ad0e67610257)
 
+Lien projet : https://pokedexkvn9.netlify.app/
 
